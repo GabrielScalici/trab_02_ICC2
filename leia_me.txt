@@ -1,0 +1,19 @@
+Diretório build: contém o executavel
+Diretório doc: documentação e relatório
+Diretório includes: arquivos cabeçalho
+Diretório src: arquivos fonte do programa
+
+Intrução:
+	Para executar o programa, navegue com o terminal até a pasta que contém o Makefile, então digite o comando 'make run'.
+
+	Para compilar o programa, navegue com o terminal até a pasta que contém o Makefile, então digite o comando 'make compile'.
+
+Modelo do arquivo CSV:
+
+titulo_col_1,titulo_col_2,..,titulo_col_n\n
+conteudo_lin_1_col_1,conteudo_lin_1_col_2,..,conteudo_lin_1_col_n\n
+conteudo_lin_2_col_1,conteudo_lin_2_col_2,..,conteudo_lin_2_col_n\n
+.\n
+.\n
+.\n
+conteudo_lin_m_col_1,conteudo_lin_m_col_2,..,conteudo_lin_m_col_n\n
